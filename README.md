@@ -17,7 +17,7 @@ The Camera plugin relies solely on the system's available languages.
 
  <table style="border: none;">
   <tr>
-    <td style="border: none;"><img src="Blague/assets/images/Camera.png" alt="Camera Logo" width="120"></td>
+    <td style="border: none;"><img src="Camera/assets/images/Camera.png" alt="Camera Logo" width="120"></td>
     <td style="border: none;">
       <h1 style="margin: 0;color: brown;">Camera</h1>
       <h3 style="margin: 0;">Show Camera</h3>
