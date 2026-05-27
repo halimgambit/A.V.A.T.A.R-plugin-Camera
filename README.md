@@ -14,6 +14,10 @@ The Camera plugin is fully multi-room.
 # Multi-language
 The Camera plugin relies solely on the system's available languages.
 
+Camera vous permet de contrôler la caméra Windows avec votre voix.
+Ouvrez ou fermez rapidement l’application Caméra sur n’importe quel client A.V.A.T.A.R compatible.
+
+Il permet également de piloter la caméra à distance sur un autre client de votre installation multiroom grâce aux commandes vocales A.V.A.T.A.R.
 
  <table style="border: none;">
   <tr>
