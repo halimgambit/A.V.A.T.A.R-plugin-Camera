@@ -1,0 +1,12 @@
+{
+    "name": "Camera",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin Camera for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "Camera"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }
